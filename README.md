@@ -28,15 +28,15 @@ City
         │
         └── Sales ─── Products
 
-🔍 Business Questions Analyzed
-Coffee Consumers Count
+###🔍 Business Questions Analyzed
+#1. Coffee Consumers Count
 Estimated the number of coffee consumers in each city assuming 25% of the population consumes coffee.
-Total Revenue from Coffee Sales
-Analyzed city-wise revenue generated during Q4 2023.
-Sales Count for Each Product
-Identified the number of sales/orders for each coffee product.
-Average Sales Amount per City
-Calculated total revenue, unique customers, and average sales per customer for each city.
+# 2. Total Revenue from Coffee Sales
+4. Analyzed city-wise revenue generated during Q4 2023.
+5. Sales Count for Each Product
+6. Identified the number of sales/orders for each coffee product.
+7. Average Sales Amount per City
+8. Calculated total revenue, unique customers, and average sales per customer for each city.
 City Population and Coffee Consumers
 Compared estimated coffee consumers with the number of unique customers in each city.
 Top Selling Products by City
