@@ -79,6 +79,6 @@ The tables are connected using primary keys and foreign keys.
 
 ## 👤 Author
 
-**Salman**
+**Salman Morol**
 
 Aspiring Data Analyst | SQL | Power BI | Excel
